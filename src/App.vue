@@ -22,6 +22,7 @@ export default {
         this.posts = res.data;
       })
       .catch((error) => {
+        // eslint-disable-next-line
         console.log(error);
       });
   },
