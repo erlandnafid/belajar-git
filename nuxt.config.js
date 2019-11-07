@@ -7,11 +7,28 @@ module.exports = {
   */
   head: {
     titleTemplate: '%s - ' + process.env.npm_package_name,
-    title: process.env.npm_package_name || '',
+    title: 'BeliMobilOnline : Beli Mobil Online Mudah dan Proses Cepat',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
+      {
+        hid: 'BeliMobilOnline',
+        name: 'BeliMobilOnline',
+        content: 'BeliMobilOnline'
+      },
+      { name: 'description', content: 'Diskon terbaik untuk mobil baru kamu hanya di BeliMobilOnline' },
+      { name: 'keyword', content: 'beli honda brio online, beli honda brio, beli brio online, beli honda brio jakarta' },
+      { name: 'og:title', content: 'BeliMobilOnline : Beli Mobil Online Mudah dan Proses Cepat' },
+      { name: 'og:type', content: 'Website' },
+      { name: 'og:url', content: 'https://belimobilonline.netlify.com/' },
+      { name: 'og:site_name', content: 'BeliMobilOnline' },
+      // { name: 'Og:image', content: 'https://BeliMobilOnline.com/motor-baru/favicon.ico' },
+      { name: 'Twitter:card', content: 'Summary' },
+      { name: 'Twitter:title', content: 'BeliMobilOnline : Beli Mobil Online Mudah dan Proses Cepat' },
+      { name: 'Twitter:site', content: '@BeliMobilOnline' },
+      { name: 'Twitter:creator', content: '@BeliMobilOnline' },
+      { name: 'Twitter:description', content: 'BeliMobilOnline : Beli Mobil Online Mudah dan Proses Cepat' },
+      // { name: 'Twitter:image', content: 'https://BeliMobilOnline.com/motor-baru/favicon.ico' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
