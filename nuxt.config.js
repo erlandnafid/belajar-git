@@ -14,10 +14,10 @@ module.exports = {
       {
         hid: 'BeliMobilOnline',
         name: 'BeliMobilOnline',
-        content: 'BeliMobilOnline'
+        content: 'BeliMobilOnline erlandnafidfriskiawan15101994'
       },
-      { name: 'description', content: 'Diskon terbaik untuk mobil baru kamu hanya di BeliMobilOnline' },
-      { name: 'keyword', content: 'beli honda brio online, beli honda brio, beli brio online, beli honda brio jakarta' },
+      { name: 'description', content: 'Diskon terbaik untuk mobil baru kamu hanya di BeliMobilOnline erlandnafidfriskiawan15101994' },
+      { name: 'keyword', content: 'erlandnafidfriskiawan15101994, beli honda brio online, beli honda brio, beli brio online, beli honda brio jakarta' },
       { name: 'og:title', content: 'BeliMobilOnline : Beli Mobil Online Mudah dan Proses Cepat' },
       { name: 'og:type', content: 'Website' },
       { name: 'og:url', content: 'https://belimobilonline.netlify.com/' },
