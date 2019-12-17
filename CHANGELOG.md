@@ -1,4 +1,8 @@
-## [1.0.0] 2019-03-13
+# Change Log
+
+## [1.0.0] 2019-09-13
 ### Original Release
-- Added Reactstrap as base framework
-- Added design from Argon Dashboard by Creative Tim
+- Started project with NextJS
+- Added Material-UI as base framework
+- Added design from Material Kit by Creative Tim
+- Added components from Material Kit React by Creative Tim

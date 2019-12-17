@@ -1,0 +1,56 @@
+{
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--6-1!node_modules/sass-loader/lib/loader.js??ref--6-2!assets/scss/nextjs-material-kit.scss?v=1.0.0": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "css node_modules/css-loader/index.js??ref--6-1!node_modules/sass-loader/lib/loader.js??ref--6-2!assets/scss/nextjs-material-kit.scss?v=1.0.0 0": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/runtime/main.js": 2,
+      "static/wU52VAmRa_vd0IVzUY18M/pages/_app.js": 3,
+      "static/wU52VAmRa_vd0IVzUY18M/pages/_error.js": 4,
+      "static/wU52VAmRa_vd0IVzUY18M/pages/components.js": 5,
+      "static/wU52VAmRa_vd0IVzUY18M/pages/index.js": 6,
+      "static/wU52VAmRa_vd0IVzUY18M/pages/landing.js": 7,
+      "static/wU52VAmRa_vd0IVzUY18M/pages/login.js": 8,
+      "static/wU52VAmRa_vd0IVzUY18M/pages/profile.js": 9,
+      "styles": 10
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}
